@@ -5,6 +5,7 @@ kagglehub
 tensorflow
 keras
 pillow
+scikit-learn
 
 
 -e .

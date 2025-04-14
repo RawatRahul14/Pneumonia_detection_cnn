@@ -1,4 +1,10 @@
 numpy
 pandas
+ipykernel
+kagglehub
+tensorflow
+keras
+pillow
+
 
 -e .

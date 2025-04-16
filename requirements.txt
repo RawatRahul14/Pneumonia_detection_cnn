@@ -7,5 +7,6 @@ keras
 pillow
 scikit-learn
 seaborn
+streamlit
 
 -e .

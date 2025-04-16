@@ -6,6 +6,6 @@ tensorflow
 keras
 pillow
 scikit-learn
-
+seaborn
 
 -e .

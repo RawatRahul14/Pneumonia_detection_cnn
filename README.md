@@ -31,7 +31,7 @@ The goal of this project is to build an AI-based system that can detect pneumoni
 - Rahul Rawat
 - Ronakkumar Chavda
 - Sehaj Singh Jaggi
-- Shruthi
+- Sruthi
 
 ## Dataset:
 For this project we have choose, Chest X-Ray Images (Pneumonia) data from the Kaggle.

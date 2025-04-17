@@ -2,6 +2,11 @@
 
 This project is a final group project of Lambton College (Mississauga): Semester - 3.
 
+Running the models locally can be `time-consuming` and `resource-intensive`, especially if your system `doesn't meet` the recommended requirements. To avoid long training times, you can directly download the pre-trained model parameters from the link below and make sure to add the file in the main working directory:
+
+🔗 **[Download Pre-trained Models](https://drive.google.com/drive/folders/10rPB-yi-aqdqs1f5t2e49NXBxmj-2Pdl?usp=sharing)**
+
+
 ## Table of Content:
 - [Objective](#objective)
 - [Members List](#memebers-list)
